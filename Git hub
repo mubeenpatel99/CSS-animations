@@ -1,0 +1,19 @@
+create repository
+uncheck the include README file
+copy the the clone link
+
+$ git config --global user.name " Patel Mubeen"
+$ git config --global user.email "patel.mubeen99@gmail.com"
+$ git init
+$ git remote add origin paste the clone link
+$ git remote -v
+$ git add .
+$ git status
+$ git commit -m "your message"
+$ git push origin master
+
+Refresh the git hub and you will get your file there.
+
+touch to create file.
+mv to rename file
+rm to remove file.
