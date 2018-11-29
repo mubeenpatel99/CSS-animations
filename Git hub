@@ -20,3 +20,8 @@ Refresh the git hub and you will get your file there.
 touch to create file.
 mv to rename file
 rm to remove file.
+
+branching
+git branch - to check in which branch you are.
+git branch <branch name> - to create a new branch in repository.
+git checkout <branch name> - to swich to that branch.
